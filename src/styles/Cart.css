@@ -1,0 +1,21 @@
+@import url('./index.css');
+.lmj-cart {
+	color: white;
+	background-color: #31b572;
+	padding: 32px;
+	width: 390px;
+	max-width: 240px;
+	line-height: 2.3rem;
+	position: relative;
+}
+.cached{
+	transform: translateX(-80%);
+	transition: all 2s ease-in-out;
+}
+.cacherPanier{
+	position: absolute;
+	top: 0.5%;
+	left: 85%;
+	z-index: 2;
+}
+

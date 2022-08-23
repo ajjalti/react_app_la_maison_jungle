@@ -1,0 +1,8 @@
+@import url('./index.css');
+.lmj-plant-list {
+	list-style-type: none;
+	height:auto;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+}
